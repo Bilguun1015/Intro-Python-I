@@ -21,3 +21,4 @@ print(x + int(y))
 
 # YOUR CODE HERE
 print('{}'.format(x)+y)
+print(str(x) + y)
